@@ -98,7 +98,7 @@
 ##Reviews
 
 
-![What](https://github.com/MayurSoneji/Recipe/blob/master/Images/what.gif)
+![What](https://github.com/MayurSoneji/Recipe/blob/master/Images/What.gif)
 
 ![Delicious](https://github.com/MayurSoneji/Recipe/blob/master/Images/delicious.gif)
 
