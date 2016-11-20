@@ -1,5 +1,7 @@
 #Paneer Masala Recipe
 
+![Paneer](https://github.com/MayurSoneji/Recipe/blob/master/Images/paneer-butter-masala-recipe.jpeg)
+
 ##Prep Time
 10 mins
 
@@ -35,23 +37,43 @@
 
 1b. If you are using a block of paneer, dice them into cubes.
 
+![Step 2](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-1.jpeg)
+
 2. Grind onion, ginger and garlic in a grinder and make onion paste. Grind soaked cashew nuts with 2 tablespoons water to make cashew nut paste. Blanch the tomatoes and blend them to prepare tomato puree.
+
+![Step 3](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-2.jpeg)
 
 3. Heat cooking oil and butter in a non-stick frying pan over medium flame. Add onion paste and bay leaf and sauté until onion paste turns light brown for approx. 4-5 minutes.
 
+![Step 4](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-3.jpeg)
+
 4. Add green chilli and red chili powder and sauté for 30-40 seconds. Add cashew nut paste.
+
+![Step 5](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-4.jpeg)
 
 5. Stir and cook for 2-minutes.
 
+![Step 6](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-5.jpeg)
+
 6. Add tomato puree and cook until oil starts to separate from the puree, it will take around 3-4 minutes.
+
+![Step 7](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-6.jpeg)
 
 7. Add coriander powder and garam masala powder and mix well.
 
+![Step 8](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-7.jpeg)
+
 8. Add 1/2 cup milk, 1/2 cup water and salt; mix and cook until oil comes on the surface or for approx. 4-5 minutes.
+
+![Step 9](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-8.jpeg)
 
 9. Add paneer cubes, kasuri methi and cook for approx 2-minutes or until you get the desired consistency of gravy.
 
+![Step 10](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-9.jpeg)
+
 10. Add fresh cream.
+
+![Step 11](https://github.com/MayurSoneji/Recipe/blob/master/Images/step-10.jpeg)
 
 11. Mix properly and turn off the flame.
 
@@ -68,3 +90,16 @@
 * If you like creamier gravy, then add more milk cream in step-10. Alternatively, if you do not like creamy taste, then you can altogether avoid using cream.
 
 * Paneer is used in this traditional indian curry recipe however, you can use tofu if paneer is not available.
+
+##Final Result
+
+![Paneer](https://github.com/MayurSoneji/Recipe/blob/master/Images/paneer-butter-masala-recipe.jpeg)
+
+##Reviews
+
+
+![What](https://github.com/MayurSoneji/Recipe/blob/master/Images/what.gif)
+
+![Delicious](https://github.com/MayurSoneji/Recipe/blob/master/Images/delicious.gif)
+
+![Monica](https://github.com/MayurSoneji/Recipe/blob/master/Images/monica.gif)
